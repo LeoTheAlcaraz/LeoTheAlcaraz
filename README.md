@@ -13,11 +13,9 @@
 
 - 💬 Ask me about **Web & App Development, Cloud Infrastructure, Data Analysis, Leadership & Operations, Hackathons & Projects, Career Growth**
 
-- 📫 How to reach me **leoiskiddo55@gmail.com**
+- 📫 How to reach me **leoalcarazjr2004@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFtRGsbkBw/g14BSrFbzhblX8xldmqu8w/edit?utm_content=DAFtRGsbkBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFtRGsbkBw/g14BSrFbzhblX8xldmqu8w/edit?utm_content=DAFtRGsbkBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- ⚡ Fun fact **I bring serious Golden Retriever energy to everything I do—enthusiastic, loyal, and always ready to dive into new projects with a smile!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
