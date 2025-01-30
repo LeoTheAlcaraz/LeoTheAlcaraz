@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/zupcOR9.png)](https://leoalcarazwebport.netlify.app/)
 <h1 align="center">Hi 👋, I'm Leo D. Alcaraz Jr</h1>
-<h3 align="center">"Microsoft Learn Exec. VP & Head of Operations - PUPM | AWSCC Former Dept. Head of Advanced Network and Infrastructure - PUPM | Data Analyst Associate | App & Web Developer"</h3>
+<h3 align="center">"Microsoft Learn Exec. VP & Head of Operations - PUPM | Blue Ocean Ambassador | Vanar Ambassador -Web3 & Blockchain | Data Analyst Associate | App & Web Developer"</h3>
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leothealcaraz&label=Profile%20views&color=0e75b6&style=flat" alt="leothealcaraz" /> </p>
