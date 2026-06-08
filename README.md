@@ -1,38 +1,93 @@
-[![MasterHead](https://i.imgur.com/zupcOR9.png)](https://leoalcarazwebport.netlify.app/)
-<h1 align="center">Hi 👋, I'm Leo D. Alcaraz Jr</h1>
-<h3 align="center">"Microsoft Learn Exec. VP & Head of Operations - PUPM | Blue Ocean Ambassador | Vanar Ambassador -Web3 & Blockchain | Data Analyst Associate | App & Web Developer"</h3>
-<img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+# Leo D. Alcaraz Jr.
+**Computer Science Student | Full-Stack Developer | Technical Leader**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leothealcaraz&label=Profile%20views&color=0e75b6&style=flat" alt="leothealcaraz" /> </p>
+A passionate individual with a strong foundation in programming, logic, and theoretical concepts[cite: 1]. Dedicated to continuous learning and contributing positively, with a proven ability to thrive in collaborative team environments[cite: 1].
 
-- 🌱 I’m currently learning **Ruby, Rust, R and C#**
+[Portfolio](https://datacamp.com/portfolio/LeoTheAlcaraz) | [LinkedIn](https://www.linkedin.com/in/leothealcaraz) | [GitHub](https://github.com/LeoTheAlcaraz) | [Email](mailto:leoalcarazjr2004@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/LeoTheAlcaraz](https://github.com/LeoTheAlcaraz)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/leothealcaraz/](https://www.linkedin.com/in/leothealcaraz/)
+### Education
+**Polytechnic University of the Philippines**[cite: 1]
+*   **BS Computer Science**[cite: 1]
+    *   Fourth Year President's Lister (GWA: 1.30)[cite: 1]
+    *   Third Year President's Lister (GWA: 1.55)[cite: 1]
+    *   Second Year President's Lister (GWA: 1.36)[cite: 1]
+    *   First Year President's Lister (GWA: 1.17)[cite: 1]
+*   **SHS - STEM Strand**[cite: 1]
+    *   Graduated with a 96 average[cite: 1]
 
-- 💬 Ask me about **Web & App Development, Cloud Infrastructure, Data Analysis, Leadership & Operations, Hackathons & Projects, Career Growth**
+---
 
-- 📫 How to reach me **leoalcarazjr2004@gmail.com**
+### Core Specializations
+*   **Programming:** C, Java, JavaScript, HTML, CSS, Node.js, React, React Native[cite: 1]
+*   **Core Disciplines:** Network & Infrastructure, Data Analytics, Databases, Technical Writing[cite: 1]
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFtRGsbkBw/g14BSrFbzhblX8xldmqu8w/edit?utm_content=DAFtRGsbkBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFtRGsbkBw/g14BSrFbzhblX8xldmqu8w/edit?utm_content=DAFtRGsbkBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
 
-<h3 align="left">Connect with me:</h3>
+### Experience
+
+#### Web Developer | Photobooth-io.cc
+*May 2026*[cite: 1]
+*   **Interface Development:** Built and optimized a responsive web interface to ensure a seamless, user-friendly photobooth experience across all devices[cite: 1].
+*   **API Integration:** Integrated live camera and media APIs to handle high-quality photo capture and instant image rendering[cite: 1].
+*   **Performance Optimization:** Maintained the platform's codebase to ensure fast loading times and reliable photo processing under heavy traffic[cite: 1].
+
+#### AI and Data Science Lead / Head | CISCONET Connect PUP
+*December 2024 - Present*[cite: 1]
+*   Developed and implemented AI-based solutions to streamline operations and optimize decision-making processes[cite: 1].
+*   Organized training sessions and seminars to upskill members in data science and artificial intelligence[cite: 1].
+*   Guided collaborative projects leveraging machine learning and data analytics to solve real-world problems[cite: 1].
+
+#### Executive Vice President & Head of Operations | Microsoft Learn Student Ambassadors (PUP Manila)
+*   Organized and led workshops and events, promoting technical skills and development among fellow students[cite: 1].
+*   Coordinated with industry professionals to provide mentorship and networking opportunities for the student community[cite: 1].
+
+#### Network & Infrastructure Dept. Head | AWS Cloud Club (PUP Manila)
+*   Managed network infrastructure and ensured reliable connectivity for club activities[cite: 1].
+*   Coordinated AWS cloud training sessions and hands-on workshops for members[cite: 1].
+*   Developed and implemented best practices for network security and performance[cite: 1].
+
+#### Hackathon Lead | Google AI Hackathon
+*   Led a project development team, coordinating tasks and resources to foster collaboration and creativity[cite: 1].
+*   Presented the final project, "VisuAlly"—a sign-language application designed to enhance communication between deaf/mute individuals and those not proficient in sign language[cite: 1].
+
+#### Internship | Department of Trade and Industry (DTI Mandaluyong)
+*August 2025 - October 2025*[cite: 1]
+*   Guided business owners through the application process and verified compliance with regulatory submission requirements[cite: 1].
+*   Coordinated logistics for workshops and trade fairs aimed at helping local entrepreneurs scale their businesses[cite: 1].
+*   Performed data entry and analysis to track local business trends and evaluate the effectiveness of government projects[cite: 1].
+
+#### Web3 & Blockchain Ambassadorships
+*   **Blue Ocean Ambassador:** Spearheaded initiatives to educate individuals about Web3 technologies, organized decentralized application hackathons, and collaborated with global Web3 leaders[cite: 1].
+*   **Vanar Ambassador:** Conducted educational sessions to demystify blockchain use cases and facilitated partnerships between developers and blockchain startups[cite: 1].
+
+---
+
+### Certifications
+*   **Data Analyst Associate** (Credential ID: DAA0014778508623) – *DataCamp*[cite: 1]
+    *   Analyzed data to provide actionable insights and support decision-making using statistical tools and data visualization techniques[cite: 1].
+
+---
+
+### Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leothealcaraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leothealcaraz/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24749486/leo-alcaraz-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24749486/leo-alcaraz-jr" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/leothealcaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/leothealcaraz" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/leoalcrz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leoalcrz/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@leothealcaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@leothealcaraz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/leothealcaraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/leothealcaraz/" height="30" width="40" /></a>
-<a href="https://discord.gg/leothealcaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leothealcaraz" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leothealcaraz&show_icons=true&locale=en&layout=compact" alt="leothealcaraz" /></p>
+### GitHub Metrics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leothealcaraz&show_icons=true&locale=en" alt="leothealcaraz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leothealcaraz&" alt="leothealcaraz" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=leothealcaraz&show_icons=true&locale=en" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leothealcaraz" alt="Streak Stats" height="150" />
+</p>
